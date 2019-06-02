@@ -2,4 +2,5 @@ pandas
 numpy
 matplotlib
 sklearn
-xlrd
+statsmodels
+ml_metrics
